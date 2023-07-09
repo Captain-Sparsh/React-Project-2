@@ -4,7 +4,7 @@ const StartGame = (props) => {
   return (
     <Container>
         <div>
-        <img src= "/dices 1.png" alt="img" />
+        <img src= "./dices 1.png" alt="img" />
         </div>
         <div className='content'>
             <h1>Dice Game</h1>
